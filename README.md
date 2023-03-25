@@ -1,5 +1,5 @@
-# tictactoe
-
+# tic tac toe
+Tic tac toe is a game played between two players using X and O. I created this flutter app for android devices.
 A new Flutter project.
 
 ## Getting Started
